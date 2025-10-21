@@ -1,0 +1,17 @@
+.active {
+  width: 10rem;
+  height: 10rem;
+  background: lightgreen;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.inactive {
+  width: 20rem;
+  height: 20rem;
+  background: lightgray;
+  color: gray;
+  padding: 10px;
+  border-radius: 10px;
+}

@@ -1,0 +1,22 @@
+.profile-box{
+    width: 20rem;
+    height: 25rem;
+
+    padding: 1rem;
+
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+
+    position: relative;
+}
+
+.profile-box img{
+    border-radius: 100%;
+    
+}
+
+.badge-box{
+  position: absolute;
+  top: 1rem;
+}
+
